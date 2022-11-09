@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "coc-css": ">=1.2.4",
+    "coc-emmet": ">=1.1.6",
+    "coc-go": ">=0.8.0",
+    "coc-marketplace": ">=1.7.0",
+    "coc-markmap": ">=0.2.5",
+    "coc-syntax": ">=1.2.4",
+    "coc-tag": ">=1.2.5"
+  }
+}
